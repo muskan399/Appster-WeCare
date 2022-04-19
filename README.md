@@ -1,4 +1,4 @@
-# wecare_major
+# We-Care
 
 A new Flutter project.
 
